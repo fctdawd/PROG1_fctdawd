@@ -1,0 +1,6 @@
+lampara
+bombilla
+luz
+tornillo
+mesa
+
